@@ -2,7 +2,7 @@
   "url":"https://raw.githubusercontent.com/samer735/files-store/refs/heads/main/getSettings.json",
   "password":"123456",
   "controller_url": "https://gist.githubusercontent.com/samer735/47ee5bb0db27249a3c7a033f74804433/raw/03cdcd0fad3ff49363e086110582a222bbfd4540/najdwipController.php",
-  "model_url": "https://gist.githubusercontent.com/samer735/47ee5bb0db27249a3c7a033f74804433/raw/03cdcd0fad3ff49363e086110582a222bbfd4540/najdwipController.php",
+  "model_url": "https://gist.githubusercontent.com/samer735/81ad02e5f0e9aec00181f70330a02f70/raw/7d1606acec133422056e43d611ac31eb4055b546/najdwipModel",
   "controller_path": "catalog/controller/api/customapi.php",
   "model_path": "catalog\\model\\catalog/customapi.php"
 }
