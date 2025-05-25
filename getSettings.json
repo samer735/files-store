@@ -1,6 +1,6 @@
 {
-  "controller_url":"https://gist.githubusercontent.com/samer735/47ee5bb0db27249a3c7a033f74804433/raw/03cdcd0fad3ff49363e086110582a222bbfd4540/najdwipController.php",
-  "model_url":"https://gist.githubusercontent.com/samer735/47ee5bb0db27249a3c7a033f74804433/raw/03cdcd0fad3ff49363e086110582a222bbfd4540/najdwipController.php",
-  "controller_path":"catalog/controller/api/customapi.php",
-  "model_path":"catalog\model\catalog/customapi.php"
+  "controller_url": "https://gist.githubusercontent.com/samer735/47ee5bb0db27249a3c7a033f74804433/raw/03cdcd0fad3ff49363e086110582a222bbfd4540/najdwipController.php",
+  "model_url": "https://gist.githubusercontent.com/samer735/47ee5bb0db27249a3c7a033f74804433/raw/03cdcd0fad3ff49363e086110582a222bbfd4540/najdwipController.php",
+  "controller_path": "catalog/controller/api/customapi.php",
+  "model_path": "catalog\\model\\catalog/customapi.php"
 }
