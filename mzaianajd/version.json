@@ -22,7 +22,7 @@
       "label_ar":"اخر شي وصل",
       "label_en":"Whats new",
       "condition":"sale_price > 0 ",
-      "url":""
+      "url":"" 
     }
   ]
 }
