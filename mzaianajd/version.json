@@ -8,21 +8,21 @@
       "label_ar":"العروض المميزة",
       "label_en":"Special Offers",
       "condition":"sale_price > 0",
-      "url":"catalog/main/banar_r.jpg",      
+      "url":"catalog/main/banar_r.jpg"  
     },
     {       
       "type":"imgWithC",    
       "label_ar":"بولفير | BOLVER",
       "label_en":"بولفير | BOLVER",
       "condition":"299",
-      "url":"catalog/main/banar_l2.jpg",      
+      "url":"catalog/main/banar_l2.jpg"
     },
     {       
       "type":"p",
       "label_ar":"اخر شي وصل",
       "label_en":"Whats new",
       "condition":"sale_price > 0 ",
-      "url":"catalog/main/banar_l2.jpg",      
+      "url":""
     }
   ]
 }
