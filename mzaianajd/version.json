@@ -26,8 +26,8 @@
     },
        {       
       "type":"p",
-      "label_ar":"اخر شي وصل",
-      "label_en":"Whats new",
+      "label_ar":"العروض",
+      "label_en":"Offers",
       "condition":" p.sale_price > 0 LIMIT 20",
       "url":"" 
     }
