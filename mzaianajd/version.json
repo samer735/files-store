@@ -21,7 +21,14 @@
       "type":"p",
       "label_ar":"اخر شي وصل",
       "label_en":"Whats new",
-      "condition":" p.product_id > 0 ORDER BY p.product_id DESC  LIMIT 5",
+      "condition":" p.product_id > 0 ORDER BY p.product_id DESC  LIMIT 20",
+      "url":"" 
+    },
+       {       
+      "type":"p",
+      "label_ar":"اخر شي وصل",
+      "label_en":"Whats new",
+      "condition":" p.sale_price > 0 LIMIT 20",
       "url":"" 
     }
   ]
