@@ -8,7 +8,8 @@
       "type":"img",    
       "label_ar":"",
       "label_en":"",
-      "condition":"",   
+      "condition":"",
+      "url":'',
       "limit":0    
     }
   ]
