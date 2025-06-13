@@ -1,5 +1,19 @@
 {
   "latest_version": "1.0.0",
   "minimum_required_version": "1.0.0",
-  "update_url": "https://yourwebsite.com/app-update"
+  "update_url": "https://yourwebsite.com/app-update",
+  "appmodel":[
+    {        
+      "type":"img",
+      "width":200,
+      "height":200,
+      "condtion":"",
+      "url":"",
+      "category_id":null,
+      "product_id"null,
+      "label_ar":"",
+      "label_en":"",
+    }
+  ]
 }
+
