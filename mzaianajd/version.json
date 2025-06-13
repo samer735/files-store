@@ -11,10 +11,10 @@
       "url":"catalog/main/banar_r.jpg"  
     },
     {       
-      "type":"imgWithC",    
+      "type":"imgWithPs",    
       "label_ar":"بولفير | BOLVER",
       "label_en":"بولفير | BOLVER",
-      "condition":"299",
+      "condition":"manufacturer_id = 299",
       "url":"catalog/main/banar_l2.jpg"
     },
     {       
