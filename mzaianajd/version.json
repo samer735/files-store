@@ -30,7 +30,15 @@
       "label_en":"Offers",
       "condition":" p.sale_price > 0 LIMIT 20",
       "url":"" 
-    }
+    },
+     {       
+      "type":"pc",
+      "label_ar":"العطور",
+      "label_en":"Perfumes",
+      "condition":" pc.category_id = 34 ORDER BY p.product_id DESC LIMIT 20 ",
+      "url":"" 
+    },
+    
   ]
 }
 
