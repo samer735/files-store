@@ -4,14 +4,19 @@
   "update_url": "https://yourwebsite.com/app-update",
   "appModel":[
     {       
-      "sort":0,
-      "type":"p",    
-      "label_ar":"المنتجات اقل من 10 ريال",
-      "label_en":"",
-      "condition":"price  < 10",
-      "url":"catalog/main/banar_r.jpg",
-      "limit":0    
-    }
+      "type":"imgWithPs",    
+      "label_ar":"العروض المميزة",
+      "label_en":"Special Offers",
+      "condition":"sale_price > 0",
+      "url":"catalog/main/banar_r.jpg",      
+    },
+       {       
+      "type":"imgWithC",    
+      "label_ar":"بولفير | BOLVER",
+      "label_en":"بولفير | BOLVER",
+      "condition":"299",
+      "url":"catalog/main/banar_l2.jpg",      
+    },
   ]
 }
 
