@@ -5,10 +5,10 @@
   "appModel":[
     {       
       "sort":0,
-      "type":"img",    
+      "type":"imgWithP",    
       "label_ar":"",
       "label_en":"",
-      "condition":"",
+      "condition":"62814259",
       "url":"catalog/main/banar_r.jpg",
       "limit":0    
     }
