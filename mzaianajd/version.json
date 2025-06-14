@@ -72,7 +72,7 @@
       "label_en":"Electrical device",
       "condition":" pc.category_id = 111 ORDER BY p.product_id DESC LIMIT 20 ",
       "url":"" 
-    },
+    }
     
   ]
 }
