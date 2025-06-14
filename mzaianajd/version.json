@@ -37,7 +37,42 @@
       "label_en":"Perfumes",
       "condition":" pc.category_id = 34 ORDER BY p.product_id DESC LIMIT 20 ",
       "url":"" 
-    }
+    },
+     {       
+      "type":"pc",
+      "label_ar":"المكياج",
+      "label_en":"Make Up",
+      "condition":" pc.category_id = 100 ORDER BY p.product_id DESC LIMIT 20 ",
+      "url":"" 
+    },
+    {       
+      "type":"pc",
+      "label_ar":"العدسات",
+      "label_en":"Lenses",
+      "condition":" pc.category_id = 57 ORDER BY p.product_id DESC LIMIT 20 ",
+      "url":"" 
+    },
+     {       
+      "type":"pc",
+      "label_ar":"العناية الشخصية",
+      "label_en":"Personal care",
+      "condition":" pc.category_id = 75 ORDER BY p.product_id DESC LIMIT 20 ",
+      "url":"" 
+    },
+     {       
+      "type":"pc",
+      "label_ar":"البخور",
+      "label_en":"Incense",
+      "condition":" pc.category_id = 25 ORDER BY p.product_id DESC LIMIT 20 ",
+      "url":"" 
+    },
+      {       
+      "type":"pc",
+      "label_ar":"الاجهزة كهربائية",
+      "label_en":"Electrical device",
+      "condition":" pc.category_id = 111 ORDER BY p.product_id DESC LIMIT 20 ",
+      "url":"" 
+    },
     
   ]
 }
