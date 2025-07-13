@@ -4,18 +4,17 @@
   "update_url": "https://yourwebsite.com/app-update",
   "appModel":[
     {       
-      "type":"imgWithPs",    
-      "label_ar":"العروض المميزة",
-      "label_en":"Special Offers",
-      "condition":"sale_price > 0",
-      "url":"catalog/main/banar_r.jpg"  
+      "type":"img",    
+      "label_ar":"اطلب من اي مكان",
+      "label_en":"اطلب من اي مكان",      
+      "url":"catalog/main/banar_r_78.jpg"  
     }, 
     {       
       "type":"imgWithPs", 
-      "label_ar":"بولفير | BOLVER",
-      "label_en":"بولفير | BOLVER",
-      "condition":"manufacturer_id = 299",
-      "url":"catalog/main/banar_l2.jpg"
+      "label_ar":"شحن مجاني",
+      "label_en":"شحن مجاني",
+      "condition":"price > 199",
+      "url":"catalog/main/banar_l_78.jpg"
     },
     {       
       "type":"p",
