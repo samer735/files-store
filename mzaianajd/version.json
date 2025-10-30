@@ -16,6 +16,14 @@
       "condition":"price > 199",
       "url":"catalog/main/banar_l_78.jpg"
     },
+     {       
+      "type":"p",
+      "label_ar":"مناجات اقل من 99 ريال",
+      "label_en":"Products for less than 99 riyals",
+      "condition":" p.price ,99",
+      "url":"" 
+    },
+    
     {       
       "type":"p",
       "label_ar":"اخر شي وصل",
