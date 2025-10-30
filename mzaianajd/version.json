@@ -5,16 +5,15 @@
   "appModel":[
     {       
       "type":"img",    
-      "label_ar":"اطلب من اي مكان",
-      "label_en":"اطلب من اي مكان",      
-      "url":"catalog/main/banar_r_78.jpg"  
+      "label_ar":"",
+      "label_en":"",      
+      "url":"catalog/00main/20251009_%20بنر%20اكتوبر%20توصيل.jpg"  
     }, 
     {       
-      "type":"imgWithPs", 
-      "label_ar":"شحن مجاني",
-      "label_en":"شحن مجاني",
-      "condition":"price > 199",
-      "url":"catalog/main/banar_l_78.jpg"
+      "type":"img", 
+      "label_ar":"",
+      "label_en":"",    
+      "url":"catalog/00main/20251008_بنر%20توصيل%2010.jpg"
     },
      {       
       "type":"p",
