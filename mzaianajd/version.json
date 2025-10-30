@@ -3,18 +3,8 @@
   "minimum_required_version": "1.0.0",
   "update_url": "https://yourwebsite.com/app-update",
   "appModel":[
-    {       
-      "type":"img",    
-      "label_ar":"",
-      "label_en":"",      
-      "url":"catalog/00main/20251009_%20بنر%20اكتوبر%20توصيل.jpg"  
-    }, 
-    {       
-      "type":"img", 
-      "label_ar":"",
-      "label_en":"",    
-      "url":"catalog/00main/20251008_بنر%20توصيل%2010.jpg"
-    },
+   
+ 
      {       
       "type":"p",
       "label_ar":"منتجات اقل من 99 ريال",
@@ -22,6 +12,12 @@
       "condition":" p.price < 99",
       "url":"" 
     },
+     {       
+      "type":"img",    
+      "label_ar":"",
+      "label_en":"",      
+      "url":"catalog/00main/20251009_%20بنر%20اكتوبر%20توصيل.jpg"  
+    }, 
     
     {       
       "type":"p",
@@ -29,6 +25,12 @@
       "label_en":"Whats new",
       "condition":" p.product_id > 0 ORDER BY p.product_id DESC  LIMIT 20",
       "url":"" 
+    },
+       {       
+      "type":"img", 
+      "label_ar":"",
+      "label_en":"",    
+      "url":"catalog/00main/20251008_بنر%20توصيل%2010.jpg"
     },
        {       
       "type":"p",
