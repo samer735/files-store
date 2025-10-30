@@ -18,7 +18,7 @@
     },
      {       
       "type":"p",
-      "label_ar":"مناجات اقل من 99 ريال",
+      "label_ar":"منتجات اقل من 99 ريال",
       "label_en":"Products for less than 99 riyals",
       "condition":" p.price < 99",
       "url":"" 
